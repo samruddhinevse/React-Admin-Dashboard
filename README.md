@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App].
-
 # React Admin Dashboard Application
 
 This is a modern **React Admin Dashboard Application** built to provide the best tools for managing data, visualizing metrics, and enhancing productivity. The dashboard is fully customizable, highly functional, and uses **Syncfusion Components** for sleek and powerful UI.
